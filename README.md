@@ -1,2 +1,2 @@
 # basic_service
-Simples form of Actix Service
+Simple form of Actix Service
